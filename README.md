@@ -1,2 +1,2 @@
 # MyPortfolioWebsite
-This is my portfolio website that I developed using React
+This is my portfolio website that I developed using React(IN PROGRESS)
